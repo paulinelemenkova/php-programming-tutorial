@@ -25,7 +25,7 @@ or run a single script with \`php PHP_01_script_helloworld.php\`.
 
 ## Author
 
-**Dr Polina Lemenkova**  
+**Polina Lemenkova**  
 ORCID: https://orcid.org/0000-0002-5759-1089
 
 ## License
